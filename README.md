@@ -1,7 +1,7 @@
 # Loan Approval Prediction – MLOps Project
 
 ## Overview
-This repository showcases a hands-on, modular approach to building and deploying a Loan Approval Prediction system using MLOps best practices. It covers the full machine learning lifecycle—from data preprocessing and model training to deployment, monitoring, and CI/CD integration—making it ideal for learners and practitioners aiming to master MLOps. 
+This repository showcases a hands-on, modular approach to building and deploying a Loan Approval Prediction system using MLOps best practices. It covers the full machine learning lifecycle from data preprocessing and model training to deployment, monitoring, and CI/CD integration making it ideal for learners and practitioners aiming to master MLOps. 
 
 ## Tech Stack
 - Languages: Python, Jupyter Notebook
